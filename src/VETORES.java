@@ -3,7 +3,7 @@ public class VETORES {
         
         int[] vet = {2, 6, 9};
         System.out.println(vet[2]);
-        
+        System.out.println("olá beto");
 
     }
 }
